@@ -1,5 +1,7 @@
 npm install express dotnev helmet morgan cors
 
+npm i multer muter-storage-cloudinary cloudinary
+
 
 Role based access control 
 
